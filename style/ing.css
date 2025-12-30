@@ -1,0 +1,29 @@
+#ing h2 {
+    color: var(--brown800);
+    font-family: "Young Serif", serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: x-large;
+}
+
+.ing-list li {
+    margin-left: 25px;
+    margin-top: 15px;
+}
+
+.ing-list li p {
+    margin-left: 10px;
+    color: var(--stone600);
+    font-family: "Outfit", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 500;
+    font-style: normal;
+}
+
+.ing-list li::marker {
+    color: var(--brown800);
+}
+
+#ing {
+    margin-bottom: 35px;
+}

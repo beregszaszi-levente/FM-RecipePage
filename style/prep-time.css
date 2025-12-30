@@ -1,0 +1,39 @@
+#prep-time {
+    padding: 25px;
+    background-color: var(--rose50);
+    padding-left: 35px;
+    width: 100%;
+    max-width: 750px;
+    font-family: "Outfit", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+    border-radius: 15px;
+    margin-bottom: 35px;
+}
+
+#prep-time h3 {
+    font-size: x-large;
+    margin-top: 10px;
+    margin-bottom: 25px;
+    color: var(--rose800);
+}
+
+.prep-list {
+    color: var(--stone600);
+    margin-left: 15px;
+}
+
+.prep-list li p {
+    padding-left: 10px;
+    margin-bottom: 10px;
+}
+
+.prep-list li {
+    margin-bottom: 15px;
+
+}
+
+.prep-list li::marker {
+    color: var(--rose800);
+}
